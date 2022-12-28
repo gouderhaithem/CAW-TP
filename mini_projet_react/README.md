@@ -1,1 +1,3 @@
-# simple_ui
+# Mini projet react
+Gouder Haithem
+Islam Belhardi 
